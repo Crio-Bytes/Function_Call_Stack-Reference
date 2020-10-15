@@ -80,7 +80,9 @@ For the output:
 
 Did you see that? - function1 and function2 variables are pointing to the same memory location. 
 What just happened here? Can you explain this? 
-##### Hint - function1() had already returned by the time function2() was invoked. Picture the stack.
+
+##### Hint
+- function1() had already returned by the time function2() was invoked. Picture the stack.
 
 
 ## Activity 3 - Local static variables
@@ -148,4 +150,4 @@ You are now confident (probably more than the people who designed it ;)) that lo
  
 
 # References
-www.crio.do
+https://learn.crio.do/home/me/ME_UFCS/
