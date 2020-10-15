@@ -95,7 +95,7 @@ Print the address of var_name and find out the range that it is allocated to.
 
 ### References
 
-https://unix.stackexchange.com/questions/476895/if-a-global-or-static-c-variable-is-not-explicitly-initialized-but-implicitly-i
+- https://unix.stackexchange.com/questions/476895/if-a-global-or-static-c-variable-is-not-explicitly-initialized-but-implicitly-i
 
 ### Further exploration
 
