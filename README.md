@@ -1,11 +1,11 @@
 # Introduction
 
-Understand how the function call variables are represented and stored on the stack.
+To Understand how the function call variables are represented and stored on the stack.
 
 ## Background
 Process stack and heap are foundational concepts in computer science. Whenever a process runs, its memory is organized into a bunch of segments including heap and stack.
 
-> Refer to the `Process_Memory_Layout` diagram in the repo. 
+> Refer to the `Process_Memory_Layout` diagram in the repo folder `images`. 
 
 ## Stack
 The stack area contains the program (function call) stack, a LIFO structure, typically located in the higher parts of memory. A "stack pointer" register tracks the top of the stack; it is adjusted each time a value is "pushed" onto the stack. The set of values pushed for one function call is termed a "stack frame" or an “activation record”. A stack frame consists at minimum of a return address. Automatic/local variables are also allocated on the stack.
