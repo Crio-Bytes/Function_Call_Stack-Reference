@@ -36,7 +36,7 @@ Have a g++ compiler to run simple cpp programs.
 ```
 Understand how to run a process in the background and get its process id.
 
-When you run a program with ‘&’ in the end, it runs as a background job and prints the process id. In the above case, 226285 is the process id.
+When you run a program with ‘&’ in the end, it runs as a background job and prints the process id.
 You may have to periodically kill these processes you put in the background. Otherwise your system may become slow. If you run `ps` in the same terminal, you will be able to see the list of all processes. You can then kill the process either using pkill or kill commands.
 
 
